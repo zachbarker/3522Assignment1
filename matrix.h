@@ -1,0 +1,8 @@
+//
+// Created by Zach Barker on 2019-10-04.
+//
+
+#ifndef INC_3522ASSIGNMENT1_MATRIX_H
+#define INC_3522ASSIGNMENT1_MATRIX_H
+
+#endif //INC_3522ASSIGNMENT1_MATRIX_H
